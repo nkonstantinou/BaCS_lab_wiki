@@ -1,0 +1,250 @@
+A (Non-Exhaustive) Compilation of Academic Resources
+Online apps, articles, videos, presentation materials, and Twitter threads to help with research, teaching, and professional development endeavors.
+
+Research Design, Measurement, & Data Collection
+
+Answering developmental questions using secondary data: https://t.co/6JS2Is1GBx?amp=1
+
+Best practices for reviews & meta-analyses: https://www.annualreviews.org/doi/10.1146/annurev-psych-010418-102803
+https://www.annualreviews.org/doi/full/10.1146/annurev-psych-010418-102803
+
+EMA tools: https://twitter.com/JamieLarsH/status/1051912529952292869 
+
+Experience sampler app: http://www.experiencesampler.com/
+
+Lab.js free online study builder: https://psyarxiv.com/fqr49/
+
+Linking Qualtrics to MTurk: http://brentcurdy.net/qualtrics-tutorials/link/
+
+Measurement myths: https://t.co/tIo4ISRt3m
+
+Measurement reading list: https://docs.google.com/document/u/1/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit
+
+Measurement Schmeasurement symposium summary: https://eiko-fried.com/measurement-schmeasurement/
+
+Methods for diagnostic agreement: http://www.john-uebersax.com/stat/agree.htm
+
+New developments in validity: https://psycnet.apa.org/doiLanding?doi=10.1037%2Fpas0000626
+
+Questionnaire instrument compendium: http://www.webpages.ttu.edu/areifman/qic.htm
+
+Power calculator: https://liberos.shinyapps.io/power/
+
+Power calculator for APIM models: https://robert-ackerman.shinyapps.io/APIMPowerR/
+
+Power calculator for multilevel models: https://aguinis.shinyapps.io/ml_power/
+
+Power for causal evaluation designs: https://www.causalevaluation.org/power-analysis.html
+
+Power in multilevel relationships research: https://journals.sagepub.com/doi/full/10.1177/0265407517710342
+
+Recommendations for EMA study platforms: https://twitter.com/SarahSDermody/status/1105210665814224896?s=20 
+
+Resources for measurement training: 
+https://twitter.com/hannah_schacter/status/1016701981589569536 
+
+Sample size in grants: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/JenniferThompson/gcrc_samplesize_06192009_handouts.pdf
+
+Stress/health methods and measures: https://stresscenter.ucsf.edu/
+
+Statistical Analyses
+
+APIM app: https://apimsem.ugent.be/shiny/apim_sem/
+
+Avoiding data analysis errors: https://twitter.com/mcxfrank/status/1075466294797824000?s=20 
+
+Compendium of methods/stats resources for psychologists: http://cescup.ulb.be/a-compendium-of-useful-stats-pages-for-social-psychologists/#Power
+
+Computing power resources: https://webpower.psychstat.org/wiki/models/index
+
+Critical takes on cross-lagged models: https://twitter.com/dingding_peng/status/1072803791756505089?s=20 
+https://twitter.com/hardsci/status/1073313224446009345?s=20 
+
+Critical value calculations: https://mmcbee.shinyapps.io/critical_values/
+
+Effect size calculator: https://effect-size-calculator.herokuapp.com/
+
+Effect size converter: http://escal.site/
+
+Effect sizes in education research: https://www.nfer.ac.uk/publications/SEF01/SEF01.pdf
+
+Effect size primer for t-tests & ANOVAs: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00863/full
+
+Improving your statistical inferences free online course: https://www.coursera.org/learn/statistical-inferences
+
+Johnson-Neyman Technique for interactions in Mplus: https://clavelresearch.wordpress.com/2015/03/23/advanced-topics-plotting-better-interactions-using-the-johnson-neyman-technique-in-mplus/#MplusJN
+
+Latent variable analysis resources: https://docs.google.com/document/d/1vPKIaWegCPHdq3RnpXz40vGVWSdcYsLcdA3kOYsXWqs/edit
+
+Learning statistics with R: https://learningstatisticswithr.com/
+https://ozanj.github.io/rclass/resources/
+https://twitter.com/AmyCourtney92/status/1100663931192963072?s=20 
+
+Library of R shiny apps for basic and advanced statistics: http://wiki.mgto.org/doku.php/r_shiny_apps
+
+Mplus syntax for single- and multi-level mediation: https://www.statmodel.com/download/Preacher.pdf
+
+Mplus syntax for mediation, moderation, & moderated mediation: http://offbeat.group.shef.ac.uk/FIO/models_and_index.pdf
+
+Multilevel vs. SEM for longitudinal modeling: https://twitter.com/dp_moriarity/status/1090093010992447488?s=20 
+
+Multilevel modeling for intensive longitudinal data: https://t.co/UKNMJhXdcC 
+
+Multilevel modeling beginner tutorials & resources: https://twitter.com/JohnSakaluk/status/1101639130050486272?s=20 
+
+Multilevel textbook recommendations: https://twitter.com/JkayFlake/status/1067167471357100033 
+
+Multiple imputation for three-level & cross-classified data: https://simongrund1.github.io/posts/multiple-imputation-for-three-level-and-cross-classified-data/
+
+PSU Methodology Center Resources: https://www.methodology.psu.edu/resources/
+
+Rebutting misconceptions about multiple imputation: https://www.tandfonline.com/doi/full/10.1080/00223891.2018.1530680
+
+Small effects with big implications: https://twitter.com/mwkraus/status/961407230930243585 
+
+SPSS & SAS Macros: https://www.akmontoya.com/spss-and-sas-macros
+
+Statistical tools and tutorials: https://www.hsph.harvard.edu/tyler-vanderweele/tools-and-tutorials/
+
+Statistical tool for identifying reporting errors: http://statcheck.io/
+
+Two-level dynamic SEM primer: https://psyarxiv.com/j56bm/
+
+Data Visualization
+
+Data visualization cheat sheet: https://ggplot2.tidyverse.org/
+
+SEM charts: https://www.lucidchart.com/
+
+Visual displays of interactions: https://journals.sagepub.com/doi/pdf/10.1177/2515245917746792
+
+Visual explanation of the central limit theorem: http://mfviz.com/central-limit/
+
+Visual introduction to probability and statistics: https://seeing-theory.brown.edu/
+
+Web generated data plots: https://huygens.science.uva.nl/PlotsOfData/
+
+Web generated box plots: http://shiny.chemgrid.org/boxplotr/
+
+When you don’t know how to present your data: https://pbs.twimg.com/media/DVfpPXyX4AANAtk.jpg
+
+Open Science Resources
+
+Data simulation to gain insights into power/p-hacking: https://www.slideshare.net/deevybishop/simulating-data-to-gain-insights-intopower-and-phacking
+
+Google dataset search: https://t.co/mWJRzXDw5p?amp=1
+
+Improving Replicability of Developmental Research workshop: https://t.co/PhEfXMQvYT 
+
+Increasing transparency of pre-existing data analysis: https://psyarxiv.com/zmt3q/
+
+Pre-Registration Templates: https://osf.io/zab38/
+
+Pre-Registering Secondary Data Workshop Materials: https://osf.io/j25pn/
+
+Registered Reports Resources: https://cos.io/rr/
+
+Sample exploratory correlational study preregistration: https://t.co/gprY4pD8v7?amp=1 
+
+Job Market
+
+CV Dos and Don’ts: https://t.co/Vcqo1M4ymE 
+
+Insight from Psych Wiki data: http://markallenthornton.com/blog/psychjobwiki/
+
+Interviewing & Negotiation: https://www.jenaleedoom.com/science-with-dr-doom-blog/2019/3/8/academic-job-market-interviewing-and-negotiation
+
+Keys to the Cover Letter: https://www.insidehighered.com/advice/2011/03/11/keys-cover-letter
+
+Landing first academic position: https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position
+
+Phone Interview Questions: https://docs.google.com/document/d/16TsUqaPy8rS9etmeqISp2fDhkbnrY5ONJFA04FuetF0/edit
+
+Postdoc resources: https://osf.io/tm4pb/
+
+Teaching
+
+Activities for teaching stats & research methods: https://www.apa.org/pubs/books/4316177?tab=2
+
+Generic syllabus maker: http://wcaleb.rice.edu/syllabusmaker/generic/
+
+How to teach common stats as linear models: https://lindeloev.github.io/tests-as-linear/
+
+Ideas for teaching statistics: https://notawfulandboring.blogspot.com/2016/07/understanding-childrens-heart-surgery.html
+
+Open source stats textbooks: 
+https://blog.jamovi.org/2018/10/25/learning-statistics-with-jamovi.html
+https://sites.google.com/view/statistics-for-the-real-world/home
+
+Preparing for a teaching-oriented job: https://docs.google.com/document/d/13ZUVy4FWCeJsfbjwD4YtjfqeOykwWqS4mugGAVc-RQE/edit#heading=h.hqsgplyu1n04
+
+Sample Stats/Research Methods course materials:
+https://osf.io/z6mp4/
+https://osf.io/3967b/
+https://osf.io/2yvsc/
+https://osf.io/gu6ns/
+
+Syllabus library for psychology: https://teachpsych.org/otrp/syllabi/index.php
+
+
+
+Grant Writing
+
+Grant specific aims tips: https://twitter.com/azfaust/status/1108838971159777301?s=20 
+
+General grant-writing advice: https://twitter.com/azimuten/status/1014819673400070144 
+
+NIH review criteria: https://grants.nih.gov/grants/peer/guidelines_general/Review_Criteria_at_a_glance.pdf
+
+Reflections on applying for NSF CAREER grant: https://rutherfordlab.wordpress.com/nsf-career-app-reflections/
+
+Successful NSF proposals: https://mlab.osu.edu/proposals
+
+Manuscript Preparation
+
+Improving writing through reading blog post: https://randyjmccarthy.com/2019/01/13/improving-my-writing-through-reading-simons-2014/
+
+Journal selection estimator: http://jane.biosemantics.org/index.php
+
+Manuscript advice for undergrads: https://twitter.com/RandyJMcCarthy/status/1083857576138338304?s=20 
+
+ProWritingAid desktop app: https://prowritingaid.com/en/App/Desktop
+
+Reference & in-text citation matching program: https://reciteworks.com/
+
+Tips for writing scientific papers in psychology: http://www.dansimons.com/resources/writing_tips.html
+
+Writing blog: http://www.raulpacheco.org/category/writing/?fbclid=IwAR2_AZflevAvYFQ8hWZRX2AaDayaoEvduBPNoTUvgVje5EKamLlk17JB5m8
+
+Professional Development & Mentoring
+
+Advice for grad school interviews: https://www.psychologyinaction.org/psychology-in-action-1/2018/1/24/10-pieces-of-advice-for-graduate-school-interviews
+
+Diversity recruitment weekends: https://docs.google.com/document/d/1JsyrQzLNj_uSiQCYl2D3oUHhLuTNRGTkS_9CBPqyfV8/edit
+
+Lab manual advice: https://www.nature.com/articles/d41586-018-06167-w
+
+Lab meeting discussion topics: https://twitter.com/mollycrockett/status/1099397284939345920?s=20 
+
+Managing a research lab: https://www.nature.com/articles/d41586-018-07514-7
+
+Mentoring junior scholars: http://wtgrantfoundation.org/library/uploads/2017/09/Pay-it-Forward-2017.pdf
+
+Professional development blog: https://www.evalefkowitz.com/blog
+
+Reading academic paper guidelines: https://drive.google.com/file/d/0BzYV1OaarviucWFzT21TVGZIcm54TzUwUGNsMmdOUzdGQkZN/view
+
+Sample graduate student advising statement: 
+https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit
+
+Miscellaneous
+
+Image/flier design: https://www.canva.com/ 
+https://www.sparkpost.com/
+https://t.co/rSbaVzEONN 
+
+Paper summary browser extension: https://www.scholarcy.com/
+
+Theory mapping: https://www.theorymaps.org/
+
+
